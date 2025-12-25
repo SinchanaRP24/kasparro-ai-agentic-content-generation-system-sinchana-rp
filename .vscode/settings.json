@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.referencedLibraries": [
+        "lib\\gson-2.10.1.jar",
+        "c:\\kasparro-ai-agentic-content-generation-system-sinchu\\lib\\gson-2.10.1.jar"
+    ]
+}
